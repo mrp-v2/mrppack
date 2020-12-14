@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "mrp pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "mrp_v2",
   "files": [
     {
@@ -25,23 +25,23 @@
       "required": true
     },
     {
-      "projectID": 345425,
-      "fileID": 3100514,
-      "required": true
-    },
-    {
       "projectID": 247921,
       "fileID": 3120031,
       "required": true
     },
     {
-      "projectID": 244049,
-      "fileID": 3120568,
+      "projectID": 345425,
+      "fileID": 3100514,
       "required": true
     },
     {
       "projectID": 326041,
       "fileID": 3116387,
+      "required": true
+    },
+    {
+      "projectID": 244049,
+      "fileID": 3120568,
       "required": true
     },
     {
@@ -80,13 +80,13 @@
       "required": true
     },
     {
-      "projectID": 272637,
-      "fileID": 3102833,
+      "projectID": 242998,
+      "fileID": 3103851,
       "required": true
     },
     {
-      "projectID": 242998,
-      "fileID": 3103851,
+      "projectID": 272637,
+      "fileID": 3102833,
       "required": true
     },
     {
@@ -240,13 +240,18 @@
       "required": true
     },
     {
+      "projectID": 290209,
+      "fileID": 3087309,
+      "required": true
+    },
+    {
       "projectID": 69163,
       "fileID": 3104355,
       "required": true
     },
     {
-      "projectID": 290209,
-      "fileID": 3087309,
+      "projectID": 243121,
+      "fileID": 3117057,
       "required": true
     },
     {
@@ -260,13 +265,13 @@
       "required": true
     },
     {
-      "projectID": 404619,
-      "fileID": 3100054,
+      "projectID": 353928,
+      "fileID": 3115337,
       "required": true
     },
     {
-      "projectID": 353928,
-      "fileID": 3115337,
+      "projectID": 404619,
+      "fileID": 3100054,
       "required": true
     },
     {
